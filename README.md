@@ -22,7 +22,7 @@ CSS – For a visually stunning user interface.
 
 Installation
 # Clone the repository
-git clone https://github.com/your-username/Marvel-Verse.git
+git clone (https://github.com/Shivansh-00/Marvel/tree/main)
 
 # Navigate to the project folder
 cd Marvel-Verse
