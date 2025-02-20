@@ -19,3 +19,16 @@ This project is developed using:
 JSON – For storing and retrieving data.
 TSS (Typed Style Sheets) – For structured and efficient styling.
 CSS – For a visually stunning user interface.
+
+Installation
+# Clone the repository
+git clone https://github.com/your-username/Marvel-Verse.git
+
+# Navigate to the project folder
+cd Marvel-Verse
+
+# Install dependencies
+npm install
+
+# Run the project
+npm start
